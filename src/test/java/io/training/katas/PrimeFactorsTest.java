@@ -5,11 +5,18 @@ import org.junit.Test;
 
 import java.util.List;
 
+import static org.assertj.core.api.Assertions.assertThat;
+
 public class PrimeFactorsTest {
 
     @Test
     public void shoud_return_empty_list_as_factor_of_1() {
-        List<Integer> primeFactors = PrimeFactors.generate(1);
-        Assertions.assertThat(primeFactors).isEmpty();
+        assertThat(PrimeFactors.generate(1)).isEmpty();
+    }
+
+    @Test
+    public void should_return_a_list_containing_2_as_prime_factor_of_2() {
+        List<Integer> primeFactors = PrimeFactors.generate(2);
+        Assertions.assertThat(primeFactors).containsExactly(2);
     }
 }
