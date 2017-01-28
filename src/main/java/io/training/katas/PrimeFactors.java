@@ -10,7 +10,7 @@ public class PrimeFactors {
 
     public static List<Integer> generate(int number) {
         List<Integer> primeFactors = new ArrayList<>();
-        if (number%2 == 0){
+        while (number%2 == 0){
             primeFactors.add(2);
             number/=2;
         }
