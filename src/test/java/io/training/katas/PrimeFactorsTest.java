@@ -25,7 +25,9 @@ public class PrimeFactorsTest {
     }
 
     @Test
-    public void should_return_a_list_containing_4_as_prime_factor_of_4() {
+    public void should_return_a_list_containing_2_2_as_prime_factor_of_4() {
         assertThat(PrimeFactors.generate(4)).containsExactly(2,2);
     }
+
+
 }
