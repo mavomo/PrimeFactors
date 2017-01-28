@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d796e-4d4a-480b-bb1d-eb45aa81ae27" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" afterPath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +34,8 @@
           <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="467">
-                  <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+                <state relative-caret-position="198">
+                  <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#275#276#0" expanded="true" />
@@ -196,7 +195,7 @@
       <recent name="io.training.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_3_as_prime_factor_of_6">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
     <configuration default="false" name="PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -540,8 +539,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_3_as_prime_factor_of_6" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_3_as_prime_factor_of_6" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" />
@@ -580,11 +579,11 @@
     <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 18m 29s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 20m 27s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="PrimeFactorsTest_should_return_a_list_containing_2_3_as_prime_factor_of_6 - 2017.01.28 at 11h 19m 10s.xml">
       <configuration name="PrimeFactorsTest.should_return_a_list_containing_2_3_as_prime_factor_of_6" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PrimeFactorsTest_should_return_a_list_containing_2_as_prime_factor_of_2 - 2017.01.28 at 11h 10m 30s.xml">
-      <configuration name="PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrimeFactorsTest_should_return_a_list_containing_2_as_prime_factor_of_2 - 2017.01.28 at 11h 11m 49s.xml">
       <configuration name="PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" configurationId="JUnit" />
@@ -680,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="33" column="55" lean-forward="true" selection-start-line="33" selection-start-column="55" selection-end-line="33" selection-end-column="55" />
+        <state relative-caret-position="198">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />

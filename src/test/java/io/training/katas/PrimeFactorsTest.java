@@ -35,5 +35,10 @@ public class PrimeFactorsTest {
     }
 
 
+    @Test
+    public void should_return_a_list_containing_2_2_2_as_prime_factor_of_8() {
+        assertThat(PrimeFactors.generate(8)).containsExactly(2,2,2);
+    }
+
 
 }
