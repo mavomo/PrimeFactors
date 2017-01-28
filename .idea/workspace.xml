@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d796e-4d4a-480b-bb1d-eb45aa81ae27" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/io/training/katas/PrimeFactors.class" afterPath="$PROJECT_DIR$/target/classes/io/training/katas/PrimeFactors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" afterPath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,7 +20,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.58855754">
+    <splitter split-orientation="horizontal" split-proportion="0.41813755">
       <split-first>
         <leaf>
           <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
@@ -35,7 +37,7 @@
             <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="198">
-                  <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+                  <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#275#276#0" expanded="true" />
@@ -52,8 +54,8 @@
           <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+                <state relative-caret-position="445">
+                  <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -564,9 +566,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 20m 27s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 21m 51s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
@@ -577,6 +576,9 @@
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 28m 52s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 32m 54s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrimeFactorsTest_should_return_a_list_containing_3_3_3_as_prime_factor_of_27 - 2017.01.28 at 11h 27m 04s.xml">
@@ -638,7 +640,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java</url>
-          <line>26</line>
+          <line>28</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -669,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        <state relative-caret-position="445">
+          <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -680,7 +682,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
