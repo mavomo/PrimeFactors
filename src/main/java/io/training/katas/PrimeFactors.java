@@ -12,9 +12,7 @@ public class PrimeFactors {
         List<Integer> primeFactors = new ArrayList<>();
         for (int diviser =2; number > 1; diviser++) {
             for(; number % diviser == 0; number /= diviser){
-            //while () {
                 primeFactors.add(diviser);
-              //  ;
             }
         }
         return primeFactors;
