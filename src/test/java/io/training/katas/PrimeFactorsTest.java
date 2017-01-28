@@ -19,7 +19,6 @@ public class PrimeFactorsTest {
         assertThat(PrimeFactors.generate(2)).containsExactly(2);
     }
 
-
     @Test
     public void should_return_a_list_containing_3_as_prime_factor_of_3() {
         assertThat(PrimeFactors.generate(3)).containsExactly(3);
