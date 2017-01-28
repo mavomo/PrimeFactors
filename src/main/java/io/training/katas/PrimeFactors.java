@@ -14,6 +14,10 @@ public class PrimeFactors {
             primeFactors.add(2);
             number/=2;
         }
+        if (number == 9){
+            primeFactors.add(3);
+            number/=3;
+        }
         if(number > 1){
             primeFactors.add(number);
         }

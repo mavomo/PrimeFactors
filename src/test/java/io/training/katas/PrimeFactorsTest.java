@@ -39,7 +39,6 @@ public class PrimeFactorsTest {
         assertThat(PrimeFactors.generate(8)).containsExactly(2,2,2);
     }
 
-
     @Test
     public void should_return_a_list_containing_3_3_as_prime_factor_of_9() {
         assertThat(PrimeFactors.generate(9)).containsExactly(3,3);
