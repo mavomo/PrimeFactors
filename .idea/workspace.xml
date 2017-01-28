@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a08d796e-4d4a-480b-bb1d-eb45aa81ae27" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" afterPath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" afterPath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,8 +34,8 @@
           <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="335">
-                  <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+                <state relative-caret-position="308">
+                  <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#275#276#0" expanded="true" />
@@ -196,7 +195,7 @@
       <recent name="io.training.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_3_as_prime_factor_of_9">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
     <configuration default="false" name="PrimeFactorsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -540,8 +539,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_3_as_prime_factor_of_9" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_3_as_prime_factor_of_9" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_3_as_prime_factor_of_6" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" />
@@ -565,9 +564,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 13m 50s.xml">
-      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 16m 50s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
@@ -578,6 +574,9 @@
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 21m 51s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 25m 21s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrimeFactorsTest_should_return_a_list_containing_2_3_as_prime_factor_of_6 - 2017.01.28 at 11h 19m 10s.xml">
@@ -610,7 +609,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -680,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+        <state relative-caret-position="308">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />

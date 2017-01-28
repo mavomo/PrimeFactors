@@ -44,4 +44,9 @@ public class PrimeFactorsTest {
         assertThat(PrimeFactors.generate(9)).containsExactly(3,3);
     }
 
+    @Test
+    public void should_return_a_list_containing_3_5_as_prime_factor_of_15() {
+        assertThat(PrimeFactors.generate(15)).containsExactly(3,5);
+    }
+
 }
