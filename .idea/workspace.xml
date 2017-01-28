@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a08d796e-4d4a-480b-bb1d-eb45aa81ae27" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" afterPath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" afterPath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -34,8 +35,8 @@
           <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="137">
-                  <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+                <state relative-caret-position="445">
+                  <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#275#276#0" expanded="true" />
@@ -52,8 +53,8 @@
           <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="269">
-                  <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+                <state relative-caret-position="308">
+                  <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -84,8 +85,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
+        <option value="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
       </list>
     </option>
   </component>
@@ -195,7 +196,7 @@
       <recent name="io.training.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4">
     <configuration default="false" name="PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -287,6 +288,32 @@
       <option name="PACKAGE_NAME" value="io.training.katas" />
       <option name="MAIN_CLASS_NAME" value="io.training.katas.PrimeFactorsTest" />
       <option name="METHOD_NAME" value="should_return_a_list_containing_3_as_prime_factor_of_3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="io.training.katas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="PrimeFactors" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="io.training.katas" />
+      <option name="MAIN_CLASS_NAME" value="io.training.katas.PrimeFactorsTest" />
+      <option name="METHOD_NAME" value="should_return_a_list_containing_4_as_prime_factor_of_4" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -504,18 +531,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="4">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
       <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" />
       </list>
     </recent_temporary>
   </component>
@@ -563,6 +592,9 @@
     <history-entry file="PrimeFactorsTest_should_return_a_list_containing_3_as_prime_factor_of_3 - 2017.01.28 at 11h 12m 09s.xml">
       <configuration name="PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PrimeFactorsTest_should_return_a_list_containing_4_as_prime_factor_of_4 - 2017.01.28 at 11h 14m 45s.xml">
+      <configuration name="PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -606,7 +638,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java</url>
-          <line>23</line>
+          <line>16</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -637,8 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state relative-caret-position="308">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -647,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        <state relative-caret-position="445">
+          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
