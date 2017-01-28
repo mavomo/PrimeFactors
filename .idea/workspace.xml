@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a08d796e-4d4a-480b-bb1d-eb45aa81ae27" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" afterPath="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" afterPath="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,8 +34,8 @@
           <file leaf-file-name="PrimeFactorsTest.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="445">
-                  <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+                <state relative-caret-position="357">
+                  <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#275#276#0" expanded="true" />
@@ -53,8 +52,8 @@
           <file leaf-file-name="PrimeFactors.java" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="308">
-                  <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+                <state relative-caret-position="374">
+                  <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
                   <folding>
                     <element signature="imports" expanded="true" />
                   </folding>
@@ -85,8 +84,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
         <option value="$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java" />
       </list>
     </option>
   </component>
@@ -196,7 +195,7 @@
       <recent name="io.training.katas" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4">
+  <component name="RunManager" selected="JUnit.PrimeFactorsTest">
     <configuration default="false" name="PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -540,8 +539,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_4_as_prime_factor_of_4" />
         <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_3_as_prime_factor_of_3" />
         <item index="3" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.should_return_a_list_containing_2_as_prime_factor_of_2" />
         <item index="4" class="java.lang.String" itemvalue="JUnit.PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" />
@@ -574,8 +573,8 @@
     <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 13m 50s.xml">
       <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PrimeFactorsTest_shoud_return_empty_list_as_factor_of_1 - 2017.01.28 at 11h 03m 52s.xml">
-      <configuration name="PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" configurationId="JUnit" />
+    <history-entry file="PrimeFactorsTest - 2017.01.28 at 11h 16m 50s.xml">
+      <configuration name="PrimeFactorsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="PrimeFactorsTest_shoud_return_empty_list_as_factor_of_1 - 2017.01.28 at 11h 05m 12s.xml">
       <configuration name="PrimeFactorsTest.shoud_return_empty_list_as_factor_of_1" configurationId="JUnit" />
@@ -610,12 +609,13 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14427084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -638,7 +638,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java</url>
-          <line>16</line>
+          <line>20</line>
           <properties />
         </line-breakpoint>
       </breakpoints>
@@ -669,8 +669,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/training/katas/PrimeFactors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="374">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -679,8 +679,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/io/training/katas/PrimeFactorsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
+        <state relative-caret-position="357">
+          <caret line="23" column="56" lean-forward="true" selection-start-line="23" selection-start-column="56" selection-end-line="23" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#275#276#0" expanded="true" />
